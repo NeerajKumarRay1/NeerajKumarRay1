@@ -150,7 +150,8 @@ Cryptographic identity verification system built for privacy-preserving authenti
 - Engineered a data ingestion system covering 1,500+ NSE-listed securities, achieving 78% portfolio overlap with institutional holdings
 - Backtested ML-driven factor strategies across 5 years of historical data, delivering a 22% annualized Sharpe ratio vs. 12% for the Nifty 50 benchmark
 
-`Tags:` ![](https://img.shields.io/badge/-Python-0A1612?style=flat-square&color=00C853) ![](https://img.shields.io/badge/-ETL-0A1612?style=flat-square&color=00C853) ![](https://img.shields.io/badge/-Factor%20Modeling-0A1612?style=flat-square&color=FFB300) ![](https://img.shields.io/badge/-Backtesting-0A1612?style=flat-square&color=00C853)
+`Tags:`
+![](https://img.shields.io/badge/-Python-0A1612?style=flat-square&color=00C853) ![](https://img.shields.io/badge/-ETL-0A1612?style=flat-square&color=00C853) ![](https://img.shields.io/badge/-Factor%20Modeling-0A1612?style=flat-square&color=FFB300) ![](https://img.shields.io/badge/-Backtesting-0A1612?style=flat-square&color=00C853)
 
 ---
 
@@ -160,9 +161,12 @@ Cryptographic identity verification system built for privacy-preserving authenti
 
 | Achievement | Result |
 |:---|:---:|
-| 🏆 HackAttack 2024 | 1st Prize |
-| 🏆 Visionova 2025 | 1st Prize |
-| 🎯 InsureBot Quest 2025 (Rainmatter / Zerodha) | Top 5 |
+| HackAttack 2024 | 1st Prize |
+| Visionova 2025 | 1st Prize |
+| InsureBot Quest 2025 (Rainmatter / Zerodha) | Top 5 |
+| 2026 International Quant Championship by WorldQuant — Team QuantRay | Top 20% Globally (Stage 1) |
+
+[📄 View Resume](https://docs.google.com/document/d/17sTZ34jEn_1UMFoNR8jC00jJ6ieVjZdD/edit?usp=sharing)
 
 </div>
 
@@ -170,24 +174,31 @@ Cryptographic identity verification system built for privacy-preserving authenti
 
 ### `$ cat certifications.md`
 
-![Oracle](https://img.shields.io/badge/Oracle%20AI%20Foundations%20Associate-0A1612?style=for-the-badge&color=00C853)
-![Google](https://img.shields.io/badge/AI--ML%20Virtual%20Internship%20–%20Google%20for%20Developers-0A1612?style=for-the-badge&color=FFB300)
-![JPMorgan](https://img.shields.io/badge/J.P.%20Morgan%20Quant%20Research%20Virtual%20Experience-0A1612?style=for-the-badge&color=00C853)
-![NISM](https://img.shields.io/badge/National%20Financial%20Literacy%20Quiz%202026%20–%20NISM%20%26%20SEBI-0A1612?style=for-the-badge&color=FFB300)
+<div align="center">
+
+![Oracle](https://img.shields.io/badge/Oracle-AI%20Foundations%20Associate-0A1612?style=flat-square&color=00C853)
+![Google](https://img.shields.io/badge/Google%20for%20Developers-AI--ML%20Virtual%20Internship-0A1612?style=flat-square&color=FFB300)
+![JPMorgan](https://img.shields.io/badge/J.P.%20Morgan-Quant%20Research%20Virtual%20Experience-0A1612?style=flat-square&color=00C853)
+![NISM](https://img.shields.io/badge/NISM%20%26%20SEBI-Financial%20Literacy%20Quiz%202026-0A1612?style=flat-square&color=FFB300)
+
+</div>
 
 ---
 
 ### `$ cat education.md`
 
-![Education](https://img.shields.io/badge/B.Tech-AI%20%26%20Machine%20Learning-0A1612?style=for-the-badge&color=00C853)
-![University](https://img.shields.io/badge/Anurag%20University-Hyderabad%20(2023–2027)-0A1612?style=for-the-badge&color=FFB300)
+<div align="center">
+
+![Education](https://img.shields.io/badge/B.Tech-AI%20%26%20Machine%20Learning-0A1612?style=flat-square&color=00C853)
+![University](https://img.shields.io/badge/Anurag%20University-Hyderabad%20(2023–2027)-0A1612?style=flat-square&color=FFB300)
+
+</div>
 
 ---
 
 ### `$ cat coding_profiles.md`
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-0A1612?style=for-the-badge&logo=leetcode&logoColor=FFB300&color=0A1612)](https://leetcode.com/u/Neerajkumarray/)
-[![WorldQuant Brain](https://img.shields.io/badge/WorldQuant%20Brain-0A1612?style=for-the-badge&logo=worldquantbrain&logoColor=00C853&color=0A1612)](https://platform.worldquantbrain.com/profile/public/NR39800)
 
 ---
 
