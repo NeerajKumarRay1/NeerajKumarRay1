@@ -166,7 +166,7 @@ Cryptographic identity verification system built for privacy-preserving authenti
 | InsureBot Quest 2025 (Rainmatter / Zerodha) | Top 5 |
 | 2026 International Quant Championship by WorldQuant — Team QuantRay | Top 20% Globally (Stage 1) |
 
-[📄 View Resume]((https://drive.google.com/file/d/1lOJ4WAZ9wzrV_7akUmqxw8k8fMmeJJFL/view?usp=sharing))
+[📄 View Resume](https://drive.google.com/file/d/1lOJ4WAZ9wzrV_7akUmqxw8k8fMmeJJFL/view?usp=sharing)
 
 </div>
 
