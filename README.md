@@ -46,7 +46,7 @@ AI Engineer specializing in production-grade LLM applications, RAG architectures
 
 ```bash
 ROLE      = "AI Engineer / Quant Research Intern"
-EXPERIENCE = "Quant Research Intern @ Vajra's Wealth (May 2026 – Present)"
+EXPERIENCE = " Research Consultant WorldQuant"
 DOMAIN    = ["AI/LLMs", "NLP", "Quantitative Finance", "Conversational AI"]
 STACK     = ["Python", "FastAPI", "LangChain", "OpenAI API", "Claude API", "Docker"]
 OPEN_TO   = ["AI Engineer", "ML Engineer", "Quant Researcher (AI/FinTech)"]
